@@ -1,2 +1,2 @@
 # Website
-Juan's Personal Websate
+Juan's Personal Website
